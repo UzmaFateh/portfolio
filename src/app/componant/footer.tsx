@@ -1,4 +1,5 @@
 import Image from "next/image";
+import icon from "../../../public/spinning-icon.gif"
 export default function Footer() {
   return (
     <div>
@@ -21,12 +22,12 @@ export default function Footer() {
               <li>linkedInn</li>
               </ul>
               <ul>
-              {/* <li>  <Image className="pt-14"
+              <li>  <Image className="pt-14"
                 src={icon}
                 alt="machine"
                 height={100}
                 width={100} />
-              </li> */}
+              </li>
               </ul>
 
 

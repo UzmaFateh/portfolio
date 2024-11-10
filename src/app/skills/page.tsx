@@ -1,5 +1,5 @@
 
-export default function Home() {
+export default function Skills() {
     return (
         <div className="mx-auto py-5 md:py-24 bg-gradient-to-r from-purple-100 to-yellow-100">
             <center>

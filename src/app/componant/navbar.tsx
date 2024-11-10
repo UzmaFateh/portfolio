@@ -1,5 +1,5 @@
 import Image from "next/image";
-import red from "../../../public/red-round-removebg-preview.png"
+import red from "../../../public/red-round.webp"
 import Link from "next/link";
 
 
@@ -14,12 +14,12 @@ const Navbar = () => {
             }}>
             <div className="text-center text-5xl ">
                 <div className="flex border-b-2 border-black sm:border-0 md:border-0 lg-border-0 xl:border-0 py-2 ">
-                    <Image className="mr-14"
+                    <Image className="mr-10"
                         src={red}
                         alt="machine"
-                        height={60}
-                        width={60} />
-                    <h4 className="-ml-12 mt-1 ">Fateh.</h4>
+                        height={100}
+                        width={100} />
+                    <h4 className="-ml-12 mt-3 ">Fateh.</h4>
                     
                 </div>
 
