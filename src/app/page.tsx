@@ -7,8 +7,8 @@ export default function Home() {
       w-[100%]  bg-gradient-to-b from-gray-950 to-gray-950  my-auto py-20 ">
 
   
-      // height={1500}
-      // width={1500}
+     height={1500}
+     width={1500}
          <Image className="rounded-3xl mx-auto sm:-ml-24 md:-ml-6"
         src={grayScarf}
         alt=""
