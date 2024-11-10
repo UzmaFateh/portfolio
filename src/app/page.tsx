@@ -1,5 +1,5 @@
 import Image from "next/image";
-import grayScarf from "../../public/gray-scarf.jpg"
+import grayScarf from "../../public/gray-scarf.png"
 
 export default function Home() {
   return (
